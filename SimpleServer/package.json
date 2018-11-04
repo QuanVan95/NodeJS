@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Learn nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuanVan95/NodeJS.git"
+  },
+  "author": "QuanVan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuanVan95/NodeJS/issues"
+  },
+  "homepage": "https://github.com/QuanVan95/NodeJS#readme"
+}
